@@ -23,7 +23,7 @@ An AI-powered Formula 1 prediction system that uses machine learning to forecast
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/f1-2025-winner.git
+git clone https://github.com/AndreaZero/f1-2025-winner.git
 cd f1-2025-winner
 ```
 
